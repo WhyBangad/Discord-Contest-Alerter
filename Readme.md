@@ -2,7 +2,8 @@
 
 ## To run : 
 `pip install -r requirements.txt`
-Set the required environment variables. Then : `python main.py`
+
+Set the required environment variables, then : `python main.py`
 
 ## Aim : 
 The aim of the project is to create a bot that sends alerts in a channel a set time before a contest on one of the selected list of websites.
